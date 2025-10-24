@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Time Management: Balancing School, Friends, and Fun</title>
+
+    <style>
+        body {
+            font-family: Times New Roman, sans-serif;
+            margin: 0;
+            background-color: #f3e8ff; /* light lavender background */
+        }
+
+        header {
+            background-color: #8a2be2; /* purple */
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+
+        nav {
+            background-color: #c6a0f6; /* light purple */
+            padding: 10px;
+            text-align: center;
+        }
+
+        nav a {
+            color: #4b0082;
+            text-decoration: none;
+            padding: 10px 20px;
+            font-weight: bold;
+        }
+
+        nav a:hover {
+            background-color: #8a2be2;
+            color: white;
+            border-radius: 5px;
+        }
+
+        section {
+            padding: 20px;
+            max-width: 900px;
+            margin: auto;
+        }
+
+        .content {
+            background-color: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            margin-bottom: 20px;
+        }
+
+        .content img {
+            width: 100%;
+            border-radius: 10px;
+            margin-top: 10px;
+        }
+
+        footer {
+            background-color: #8a2be2;
+            color: white;
+            text-align: center;
+            padding: 15px;
+            margin-top: 30px;
+        }
+
+        .link-button {
+            display: inline-block;
+            background-color: #b57edc; /* medium lavender */
+            color: white;
+            padding: 10px 20px;
+            border-radius: 5px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        .link-button:hover {
+            background-color: #a020f0; /* deeper purple on hover */
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>Master Your Time: Our Guide to Balancing School and Life</h1>
+        <p>Manage your time, or it will manage you.</p>
+    </header>
+
+    <nav>
+        <a href="#school">School</a>
+        <a href="#friends">Friends</a>
+        <a href="#fun">Fun</a>
+    </nav>
+
+    <section class="content" id="school">
+        <h2>Balancing School</h2>
+        <p>Balancing school requires effective time management to juggle classes, assignments, and studying. Students who successfully balance school with other commitments often develop strong organizational skills. Finding the right balance in school can also lead to academic success and a more fulfilling educational experience.</p>
+        <img src="https://i.pinimg.com/736x/73/b6/45/73b6455d5938d4eaa18f02b8341f6a32.jpg" alt="Student studying">
+    </section>
+
+    <section class="content" id="friends">
+        <h2>Spending Time with Friends</h2>
+        <p>Friendships are important for happiness and support. Plan hangouts during weekends or after study sessions to keep your bond strong. Not only can they bring joy to us, but we can also learn from them and rely on them, especially when we need someone we trust to comfort us.</p>
+        <img src="https://i.pinimg.com/1200x/13/b2/8d/13b28dcdd1c9bf042c87d345344b4fc0.jpg" alt="Friends having fun">
+    </section>
+
+    <section class="content" id="fun">
+        <h2>Making Time for Fun</h2>
+        <p>Don’t forget to relax and have fun! Whether it’s a hobby, sport, or just watching your favorite show, balance is the key to a healthy life. If we do not manage to get free time for ourselves, this can lead to stress, burnout, and decreased productivity, which would hinder us from doing our tasks.</p>
+        <img src="https://i.pinimg.com/736x/a0/55/05/a05505e2bf5fa7a9fa54665d3de744e3.jpg" alt="Fun and relaxation">
+        <p>Learn more about managing your time here:</p>
+        <a class="link-button" href="https://www.mindtools.com/pages/main/newMN_HTE.htm" target="_blank">Visit Time Management Tips</a>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Time Management Project | Designed by Salve Rama &amp; Krishia Bascon💜</p>
+    </footer>
+</body>
+</html>
